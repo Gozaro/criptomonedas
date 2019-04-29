@@ -1,3 +1,6 @@
+
+This porject doesn't have included the dependencies look at pakage.json to update project code source.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
